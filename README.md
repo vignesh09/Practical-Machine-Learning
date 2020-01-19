@@ -11,3 +11,6 @@ After analyzing all the models and their complexity to explain, i arrived at the
 and as well as the testing set. It had an accuracy of 99%. 
 
 So the out of sample error will 1%.
+
+
+Rpubs URL: http://rpubs.com/Vignesh_0909/566949
